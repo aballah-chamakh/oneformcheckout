@@ -2,11 +2,13 @@
 
 A plugin developed using **PHP** for **PrestaShop** that transforms the multi-page checkout process into a smooth **one-page experience**.
 
+![App screenshot](https://github.com/aballah-chamakh/oneformcheckout/blob/main/mawlety_one_page_checkout.png)
+
+
 ## Features
 
 * Converts the standard multi-page checkout into a single-page checkout.
 * Simplifies and accelerates the purchasing process for customers.
-* Fully compatible with PrestaShop themes and modules.
 * Enhances user experience and reduces cart abandonment.
 
 ## Technologies Used
